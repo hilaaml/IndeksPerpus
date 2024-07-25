@@ -23,18 +23,18 @@ Welcome to the Indeks Perpustakaan repository. This project is a simple library 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/hilamls/indeks-perpustakaan.git
-   cd indeks-perpustakaan
+   git clone https://github.com/hilaaml/IndeksPerpus.git
+   cd IndeksPerpus
    ```
 
 2. **Compile the Program**:
    ```sh
-   g++ main.cpp -o indeks_perpustakaan
+   g++ main.cpp -o IndeksPerpus
    ```
 
 3. **Run the Program**:
    ```sh
-   ./indeks_perpustakaan
+   ./IndeksPerpus
    ```
 
 ### Usage
